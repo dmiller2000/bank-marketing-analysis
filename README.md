@@ -65,5 +65,4 @@ bank-marketing-analysis/
 [Your Name] - [Your Email]
 Project Link: [Your GitHub Repository URL]
 
-## 📜 License
-This project is licensed under the MIT License.
+
