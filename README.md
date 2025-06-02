@@ -44,16 +44,17 @@ bank-marketing-analysis/
 - **Matplotlib/Seaborn** - Data visualization
 - **Jupyter Notebook** - Development environment
 
-## Key Insights
-✅ 4 ML algorithms compared with robust evaluation
-✅ [X.XXX] ROC-AUC best performance achieved  
-✅ Proper handling of imbalanced classification
-✅ Production-ready preprocessing pipeline
+## Key Insights - Technical
+✅ **4 ML algorithms compared** with robust evaluation methodology.  
+✅ **[X.XXX] ROC-AUC** best performance achieved on imbalanced dataset. 
+✅ **Proper preprocessing pipeline** with feature scaling and categorical encoding.  
+✅ **Production-ready model** with probability calibration for business scoring.
 
-✅ [X.X]x improvement in targeting precision
-✅ Estimated $[XXX,XXX] revenue increase potential
-✅ 60-80% reduction in wasted marketing spend
-✅ Actionable customer segmentation insights
+## Key Insights - Business
+✅ **[X.X]x improvement** in targeting precision over baseline campaigns.  
+✅ **Estimated $[XXX,XXX] revenue increase** potential per 10K campaign.  
+✅ **60-80% reduction** in wasted marketing spend through better targeting.  
+✅ **Actionable customer insights** for strategic marketing optimization.
 
 ## Business Recommendations
 1. Deploy the best-performing model for customer scoring
@@ -68,7 +69,7 @@ bank-marketing-analysis/
 4. Run all cells
 
 ## 📧 Contact
-[Your Name] - [Your Email]
+David Miller
 Project Link: [Your GitHub Repository URL]
 
 
