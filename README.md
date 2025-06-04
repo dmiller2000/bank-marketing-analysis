@@ -45,10 +45,10 @@ bank-marketing-analysis/
 - **Jupyter Notebook** - Development environment
 
 ## Key Insights - Technical
-✅ **4 ML algorithms compared** with robust evaluation methodology.  
-✅ **0.7698 ROC-AUC** best performance achieved on imbalanced dataset. 
-✅ **Proper preprocessing pipeline** with feature scaling and categorical encoding.  
-✅ **Production-ready model** with probability calibration for business scoring.
+✅ **4 ML algorithms compared** with robust evaluation methodology  
+✅ **0.7698 ROC-AUC** best performance achieved on imbalanced dataset  
+✅ **Proper preprocessing pipeline** with feature scaling and categorical encoding  
+✅ **Production-ready model** with probability calibration for business scoring
 
 ## Key Insights - Business
 ✅ **5.9x improvement** in targeting precision over baseline campaigns.  
@@ -69,7 +69,6 @@ bank-marketing-analysis/
 4. Run all cells
 
 ## 📧 Contact
-David Miller
-Project Link: [Your GitHub Repository URL]
+David Miller Project Link: [dmiller2000](https://github.com]
 
 
