@@ -69,6 +69,7 @@ bank-marketing-analysis/
 4. Run all cells
 
 ## 📧 Contact
-David Miller Project Link: [dmiller2000](https://github.com]
+David Miller
+[Project Link: [dmiller2000](https://github.com]](https://github.com/dmiller2000/bank-marketing-analysis/commits?author=dmiller2000)
 
 
